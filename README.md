@@ -1,4 +1,4 @@
-<h1>Zeek Exercises</h1>
+<h1>Zeek Exercise</h1>
 
 
 <h2>Description</h2>
